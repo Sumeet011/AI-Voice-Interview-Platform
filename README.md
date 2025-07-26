@@ -3,16 +3,21 @@
 A full-stack interview platform leveraging AI to generate and conduct coding interviews. The project includes a Node.js backend, a React frontend, and an optional Python script for additional processing.
 
 ## 🚀 Features
--User Authentication: Secure sign-up and login for personalized access.
--Interview Management: Create, schedule, and organize your interview sessions effortlessly.
--AI Voice Agent: An intelligent AI voice agent to guide and prepare you for interviews.
--Real-time Tracking: Monitor interview progress and performance as it happens.
--In-depth Interview Analytics: Gain actionable insights from detailed interview results for focused practice and improvement.
--Personalized Dashboard: A comprehensive profile and results dashboard to track your journey and progress.
+- **User Authentication:** Secure sign-up and login for personalized access.
+- **Interview Management:** Create, schedule, and organize your interview sessions effortlessly.
+- **AI Voice Agent:** An intelligent AI voice agent to guide and prepare you for interviews.
+- **Real-time Tracking:** Monitor interview progress and performance as it happens.
+- **In-depth Interview Analytics:** Gain actionable insights from detailed interview results for focused practice and improvement.
+- **Personalized Dashboard:** A comprehensive profile and results dashboard to track your journey and progress.
 
-# YT DEMO VIDEO
+## YT DEMO VIDEO
 
-[![PrepWise Voice Agent Interview Prep, Merf AI + Gemini](http://img.youtube.com/vi/hTYmoewQM5o/mqdefault.jpg)](http://www.youtube.com/watch?v=hTYmoewQM5o)
+<a href="http://www.youtube.com/watch?v=hTYmoewQM5o">
+  <img src="https://img.youtube.com/vi/hTYmoewQM5o/maxresdefault.jpg" 
+       alt="PrepWise Voice Agent Interview Prep, Merf AI + Gemini" 
+       width="640" 
+       height="360">
+</a>
 
 ## 🛠️ Technology Stack
 - **Backend**: Node.js, Express, MongoDB (via Mongoose)  
