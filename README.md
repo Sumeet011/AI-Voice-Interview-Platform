@@ -10,6 +10,8 @@ A full-stack interview platform leveraging AI to generate and conduct coding int
 -In-depth Interview Analytics: Gain actionable insights from detailed interview results for focused practice and improvement.
 -Personalized Dashboard: A comprehensive profile and results dashboard to track your journey and progress.
 
+[Click here for the video](https://youtu.be/hTYmoewQM5o)
+
 ## 🛠️ Technology Stack
 - **Backend**: Node.js, Express, MongoDB (via Mongoose)  
 - **Frontend**: React, Vite, Tailwind CSS  
