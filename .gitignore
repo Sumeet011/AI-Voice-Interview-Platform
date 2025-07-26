@@ -1,0 +1,34 @@
+# Node.js dependencies
+Backend/node_modules/
+Frontend/node_modules/
+
+# Python cache and virtual environments
+python_backend/__pycache__/
+python_backend/*.pyc
+python_backend/.venv/
+python_backend/venv/
+
+# Environment variable files
+.env
+Backend/.env
+Frontend/.env
+python_backend/.env
+
+# Build output
+Frontend/dist/
+Backend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Audio and media artifacts
+python_backend/*.wav
+python_backend/*.webm
+
+# Misc
+*.swp
+*.swo 
