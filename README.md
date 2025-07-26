@@ -1,4 +1,4 @@
-# Merf-Ai
+# PrepWise
 
 A full-stack Voice interview platform leveraging AI to generate and conduct coding interviews. The project includes a Node.js backend, a React frontend, and an optional Python script for additional processing.
 
