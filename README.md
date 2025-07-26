@@ -3,18 +3,18 @@
 A full-stack interview platform leveraging AI to generate and conduct coding interviews. The project includes a Node.js backend, a React frontend, and an optional Python script for additional processing.
 
 ## 🚀 Features
-- User authentication (Sign up / Log in)
-- Create and manage interviews
-- AI-driven interview question generation
-- Real-time interview trackingī
-- Profile and results dashboard
+-User Authentication: Secure sign-up and login for personalized access.
+-Interview Management: Create, schedule, and organize your interview sessions effortlessly.
+-AI Voice Agent: An intelligent AI voice agent to guide and prepare you for interviews.
+-Real-time Tracking: Monitor interview progress and performance as it happens.
+-In-depth Interview Analytics: Gain actionable insights from detailed interview results for focused practice and improvement.
+-Personalized Dashboard: A comprehensive profile and results dashboard to track your journey and progress.
 
 ## 🛠️ Technology Stack
 - **Backend**: Node.js, Express, MongoDB (via Mongoose)  
 - **Frontend**: React, Vite, Tailwind CSS  
 - **Python Backend**: Python 3.x  
 - **Authentication**: JWT / Passport  
-- **Deployment**: Vercel (Backend), Static hosting (Frontend)
 
 ## 📦 Prerequisites
 - Node.js (version ≥14)  
